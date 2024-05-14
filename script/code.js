@@ -14,3 +14,7 @@ console.log(typeof combine)
 
 // Question 3
 let numberVar = 5
+
+// Question 4
+let answer = numberVar *5
+document.write(answer)
