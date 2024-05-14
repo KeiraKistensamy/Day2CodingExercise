@@ -12,3 +12,5 @@ let combine = firstName.concat(" ",lastName)
 console.log(combine)
 console.log(typeof combine)
 
+// Question 3
+let numberVar = 5
