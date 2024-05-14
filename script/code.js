@@ -11,3 +11,4 @@ let lastName = "Kistensamy"
 let combine = firstName.concat(" ",lastName) 
 console.log(combine)
 console.log(typeof combine)
+
