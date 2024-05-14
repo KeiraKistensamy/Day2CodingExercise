@@ -18,3 +18,8 @@ let numberVar = 5
 // Question 4
 let answer = numberVar *5
 document.write(answer)
+
+// Question 5
+const name = 'Keira'
+const name = 'Kistensamy'
+console.log(name);
